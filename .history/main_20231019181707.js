@@ -70,4 +70,5 @@ const llamaNamer = function () {
   return namer()
 }
 
+nameMaker = llamaNamer()
 console.log(llamaNamer())

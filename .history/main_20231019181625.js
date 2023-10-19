@@ -70,4 +70,5 @@ const llamaNamer = function () {
   return namer()
 }
 
-console.log(llamaNamer())
+nameMaker = llamaNamer()
+console.log(nameMaker())

@@ -70,4 +70,4 @@ const llamaNamer = function () {
   return namer()
 }
 
-console.log(llamaNamer())
+console.log(llamaNamer()
